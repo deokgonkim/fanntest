@@ -1,0 +1,5 @@
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:\
+../FANN-2.2.0-Source/src:\
+.
+
+export LD_LIBRARY_PATH
